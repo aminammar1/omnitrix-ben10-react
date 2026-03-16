@@ -41,3 +41,10 @@ app-example
 # generated native folders
 /ios
 /android
+
+# VSCode
+.vscode/
+
+# patches and scripts
+patches/
+scripts/
