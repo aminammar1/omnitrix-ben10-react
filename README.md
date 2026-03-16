@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./assets/omnitrix_logo.png" alt="Omnitrix Logo" width="120" />
-  <h1>⌚ Ben 10 Omnitrix App</h1>
+  <h1>Ben 10 Omnitrix App</h1>
   <p><strong>The Ultimate Alien Transformation Experience on your Mobile Device!</strong></p>
   
   <p>
@@ -10,23 +10,31 @@
   </p>
 </div>
 
-## 🌌 Overview
+## Overview
 
 Welcome to the **Ben 10 Omnitrix App**! This interactive React Native application brings the iconic Omnitrix to life right on your smartphone. Built with Expo and modern React Native tools, it offers a seamless and realistic Omnitrix simulation, complete with high-quality animations, immersive audio, and a full catalog of your favorite aliens!
 
-## ✨ Features
+## Features
 
-- **👽 Alien Transformations:** Browse through the classic alien roster, including Alien X, and experience the ultimate power in the palm of your hand.
-- **🔊 Authentic Sound Effects:** Integrated with `expo-audio` for realistic Omnitrix dial, selection, and transformation sounds.
-- **✨ Smooth Animations:** Powered by `react-native-reanimated` for fluid transitions, dynamic movements, and a visually stunning UI.
-- **⚙️ Customizable Settings:** Tailor your Omnitrix experience with an intuitive settings menu featuring sleek responsive design.
-- **🚀 Seamless Onboarding:** Get started quickly with a beautiful, fully-responsive setup flow that prepares you for hero time!
+- **Alien Transformations:** Browse through the classic alien roster, including Alien X, and experience the ultimate power in the palm of your hand.
+- **Authentic Sound Effects:** Integrated with `expo-audio` for realistic Omnitrix dial, selection, and transformation sounds.
+- **Smooth Animations:** Powered by `react-native-reanimated` for fluid transitions, dynamic movements, and a visually stunning UI.
+- **Customizable Settings:** Tailor your Omnitrix experience with an intuitive settings menu featuring sleek responsive design.
+- **Seamless Onboarding:** Get started quickly with a beautiful, fully-responsive setup flow that prepares you for hero time!
 
-## 📱 Screenshots
+## Screenshots
 
-> *Add some fantastic screenshots of the Omnitrix dial, alien selection, and settings here!*
+<div align="center">
+  <img src="./assets/screenshots/screenshot-1.jpeg" width="30%" />
+  <img src="./assets/screenshots/screenshot-2.jpeg" width="30%" />
+  <img src="./assets/screenshots/screenshot-3.jpeg" width="30%" />
+  <br />
+  <br />
+  <img src="./assets/screenshots/screenshot-4.jpeg" width="30%" />
+  <img src="./assets/screenshots/screenshot-5.jpeg" width="30%" />
+</div>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** [React Native](https://reactnative.dev/)
 - **Platform:** [Expo](https://expo.dev/) (SDK 55)
@@ -35,7 +43,7 @@ Welcome to the **Ben 10 Omnitrix App**! This interactive React Native applicatio
 - **Animations:** [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/)
 - **Media:** `expo-audio`, `expo-image`
 
-## 🚀 Getting Started
+## Getting Started
 
 Ready to strap on the watch? Follow these steps:
 
@@ -65,7 +73,7 @@ Ready to strap on the watch? Follow these steps:
 4. **Launch the App:**
    Scan the QR code with your Expo Go app (Android) or the default Camera app (iOS), or use `a` / `i` to launch an emulator.
 
-## 🦸‍♂️ Contribute to Hero Time!
+## Contribute to Hero Time!
 
 Want to add new aliens (like Upgrade or XLR8) or enhance the UI further? Contributions are highly appreciated!
 1. Fork the Project.
@@ -74,11 +82,11 @@ Want to add new aliens (like Upgrade or XLR8) or enhance the UI further? Contrib
 4. Push to the Branch (`git push origin feature/NewAlien`).
 5. Open a Pull Request.
 
-## 📜 Disclaimer
+## Disclaimer
 
 This project is a fan-made creation developed for educational purposes. "Ben 10", the Omnitrix, and all related characters and properties are trademarks and copyrights of Cartoon Network.
 
 ---
 <div align="center">
-  <i>"It's Hero Time!" ⏱️🟢</i>
+  <i>"It's Hero Time!"</i>
 </div>
